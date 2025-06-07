@@ -13,14 +13,8 @@
 * Приоритезацию гипотез
 
 **Технологический стек:**
-
-🐍 Python (pandas, numpy, matplotlib, seaborn)
-
-📊 Jupyter Notebook
-
-📈 Метрики продукта
-
-🧮 Когортный анализ
+* Python (pandas, numpy, matplotlib, seaborn)
+* Jupyter Notebook
 
 <hr>
 
